@@ -1,1 +1,57 @@
-/*Schrijf hier jouw CSS*/
+/* Assignment 1: */
+.opdracht-1 .ul1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* Assignment 2: */
+.opdracht-2 .ul2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.opdracht-2 li {
+    flex-basis: 240px;
+}
+
+/* Assignment 3: */
+.opdracht-3 .ul3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.opdracht-3 .li1 {
+    align-self: flex-start;
+}
+
+.opdracht-3 .li2 {
+    align-self: center;
+}
+
+.opdracht-3 .li3 {
+    align-self: flex-end;
+}
+
+/* Assignment 4: */
+.opdracht-4 .ul4 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+/* Assignment 5: */
+.opdracht-5 .div5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.opdracht-5 .ul5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
